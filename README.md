@@ -14,7 +14,7 @@ A theme for hugo made using tailwind CSS library and mono font family
 		2. For prod run `npm run prod` -> This generates only the CSS classes from tailwind that you are using in the theme
 4. `hugo new site <SITE_NAME>`
 5. `cd <SITE_NAME>`
-6. `git submodule add git@github.com:MarceloMagano/marcelomagano.github.io.git themes/terminal`
+6. `git submodule add git@github.com:MarceloMagano/terminal-hugo-theme.git themes/terminal`
 7. Replace the contents of `<SITE_NAME>/hugo.yaml` with `<SITE_NAME>/themes/terminal/hugo.yaml`
 8. In the root directory of the hugo site, create the directory: `mkdir -p layouts/partials/third_party_js` and add empty html file. This directory is to store any sort of third party javascript like google analytics, disqus, etc
 10. Run the website `hugo server --buildDrafts --disableFastRender --gc --ignoreCache --noHTTPCache --forceSyncStatic --verbose -w`
