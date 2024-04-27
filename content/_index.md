@@ -5,6 +5,6 @@ draft: false
 layout: "home"
 description: "{{ .Title }}"
 params:
-    author: Nayan Seth
+    author: Marcelo Magano
 ---
 <!-- No Content -->

@@ -15,5 +15,5 @@ features = ['blog', 'personal', 'responsive', 'terminal', 'dark mode', 'minimal'
 
 # If the theme has a single author
 [author]
-  name = 'Nayan Seth'
+  name = 'Marcelo Magano'
   homepage = 'https://nayanseth.com'
